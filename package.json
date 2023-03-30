@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "echarts": "^5.4.2",
+    "ol": "^7.3.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
